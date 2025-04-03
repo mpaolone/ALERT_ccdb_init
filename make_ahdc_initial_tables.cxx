@@ -50,7 +50,7 @@ void make_ahdc_initial_tables(){
 	cout << "add calibration/alert/ahdc/time_offsets " << curDir <<  "/AHDC_T0.txt" << endl;
 	cout << endl;
 	cout << "mktbl calibration/alert/ahdc/time_to_distance -r 1 sector=int layer=int component=int p0=double p1=double p2=double p3=double p4=double p5=double dp0=double dp1=double dp2=double dp3=double dp4=double dp5=double chi2ndf=double #\'ALERT AHDC time to distance parameters\'" << endl;
-	cout << "add calibration/alert/ahdc/time_to_distance " << curDir <<  "/AHDC_TDC.txt" << endl;
+	cout << "add calibration/alert/ahdc/time_to_distance " << curDir <<  "/AHDC_T2D.txt" << endl;
 	
 	
 }
