@@ -1,4 +1,4 @@
-# inital params (t0, dt0, extra1, extra2, chi2/ndf)
+# inital params (t0, dt0, extra1, extra2, chi2ndf)
 1 11 1 0.0 0.0 0.0 0.0 0.0
 1 11 2 0.0 0.0 0.0 0.0 0.0
 1 11 3 0.0 0.0 0.0 0.0 0.0
